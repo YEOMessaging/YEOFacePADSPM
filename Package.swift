@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "YEOFacePAD",
-      url: "https://github.com/YEOMessaging/YEOFacePADSPM/releases/download/0.1.3/YEOFacePAD.xcframework.zip",
-      checksum: "34a8c02bef5558f098da0da713f5e0616ea1ec01e81cc5a3d91453556ad2ea27"
+      url: "https://github.com/YEOMessaging/YEOFacePADSPM/releases/download/0.1.4/YEOFacePAD.xcframework.zip",
+      checksum: "e6e8c1dacda01a455e2af8732bc771151f625e7d2c4b7af6cc05876a351361c4"
     )
   ]
 )
