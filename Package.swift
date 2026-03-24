@@ -9,9 +9,9 @@ let package = Package(
   ],
   targets: [
     .binaryTarget(
-      name: "YEODepth",
-      url: "https://github.com/YEOMessaging/YEOFacePADSPM/releases/download/0.1.2/YEOFacePAD.xcframework.zip",
-      checksum: "10cfdd19d469aa362bdda4a84fd28565528c9a63fd2c752391cc4b36f1aabd23"
+      name: "YEOFacePAD",
+      url: "https://github.com/YEOMessaging/YEOFacePADSPM/releases/download/0.1.3/YEOFacePAD.xcframework.zip",
+      checksum: "34a8c02bef5558f098da0da713f5e0616ea1ec01e81cc5a3d91453556ad2ea27"
     )
   ]
 )
